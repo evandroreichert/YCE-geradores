@@ -2384,6 +2384,9 @@ img.testimonial-thumb {
     padding-top: 20px;
     padding-bottom: 10px;
   }
+  .over {
+    overflow-x: hidden;
+  }
 }
 
 @media (max-width: 575px) {
@@ -2391,6 +2394,7 @@ img.testimonial-thumb {
     padding: 30px 5px 15px 5px;
     min-height: auto;
     text-align: center;
+
   }
 }
 
