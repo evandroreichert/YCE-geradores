@@ -938,6 +938,15 @@ ul.navbar-nav > li > a i {
 }
 
 @media (max-width: 991px) {
+
+  ul.navbar-nav > li:first-child {
+    margin-top: 25px;
+  }
+
+  ul.navbar-nav > li:last-child {
+    margin-top: 15px;
+  }
+
   ul.navbar-nav > li > a i {
     float: right;
     background: #222;
