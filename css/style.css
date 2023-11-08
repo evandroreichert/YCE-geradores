@@ -617,7 +617,7 @@ a[href^=tel] {
 }
 
 .header-two {
-  background: #fff;
+  background: #000000;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.15);
   padding: 15px 0;
 }
@@ -642,7 +642,7 @@ ul.navbar-nav > li > a {
 
 ul.navbar-nav > li:hover > a,
 ul.navbar-nav > li.active > a {
-  color: #f66222 !important;
+  color: #ffffff !important;
 }
 
 /*-- Logo --*/
@@ -803,7 +803,7 @@ ul.top-info-box > li.nav-search i {
 
 ul.navbar-nav > li:hover > a,
 ul.navbar-nav > li.active > a {
-  color: #f66222;
+  color: #ffffff;
   position: relative;
 }
 
@@ -881,7 +881,7 @@ ul.navbar-nav > li > a:after {
 
 ul.navbar-nav > li > a {
   font-family: "Montserrat", sans-serif;
-  color: #fff !important;
+  color: #f66222 !important;
   text-rendering: optimizeLegibility;
   font-weight: 700 !important;
   text-transform: uppercase;
@@ -894,7 +894,7 @@ ul.navbar-nav > li > a {
 }
 
 .navbar-light ul.navbar-nav > li > a {
-  color: #000 !important;
+  color: #f66222;
   font-size: 13px;
 }
 
@@ -905,7 +905,7 @@ ul.navbar-nav > li > a {
   border-radius: 3px;
   line-height: normal;
   text-transform: capitalize;
-  color: #fff;
+  color: #fff !important;
   margin-top: 5px;
 }
 
